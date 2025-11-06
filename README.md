@@ -2,6 +2,11 @@
 ## This is the start of the Legacy Lottery.
 ## Be patient and engage.
 ## First contributor (project founder) will be added soon.
+## This is a real project and no Pump and Dump.
+## Telegram will be restricted due to bot attack during the first weeks.
+## If you have serious questions post them in the Telegram Chat and I'll add them to a FAQ that will be on the website of the project.
+## If someone is able and willing to work with us, please be patient.
+## Due to the heavy amount of bad actors trying to undermine the project it may be hard to get recognized by the technical operator.
 
 <!--
 **LegacyLottery/LegacyLottery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

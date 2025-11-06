@@ -1,4 +1,7 @@
 ## Hi there 👋
+## This is the start of the Legacy Lottery.
+## Be patient and engage.
+## First contributor (project founder) will be added soon.
 
 <!--
 **LegacyLottery/LegacyLottery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,6 +7,8 @@
 ## If you have serious questions post them in the Telegram Chat and I'll add them to a FAQ that will be on the website of the project.
 ## If someone is able and willing to work with us, please be patient.
 ## Due to the heavy amount of bad actors trying to undermine the project it may be hard to get recognized by the technical operator.
+## I'll keep you informed through this readme during the first days.
+## If you're willing to create a website, open an issue pls.
 
 <!--
 **LegacyLottery/LegacyLottery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
